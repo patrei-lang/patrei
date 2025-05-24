@@ -1,0 +1,56 @@
+# Business Source License 1.1
+
+## Parameters
+- **Licensor:** Forge Universal LLC
+- **Licensed Work:** Patrei Programming Language (compiler, runtime, standard library, and associated tooling)
+- **Change Date:** None (this license remains in effect indefinitely)
+- **Change License:** N/A
+
+The Licensed Work is provided under the terms of this Business Source License, version 1.1 ("BSL"), and the following additional terms.
+
+## 1. Grant of Rights
+
+Licensor grants you the right to copy, modify, create derivative works, redistribute, and make commercial and non-commercial use of the Licensed Work, subject to the restrictions in Section 2.
+
+Programs, applications, and other works created using the Licensed Work are not subject to this license and may be distributed under any terms chosen by their creators.
+
+## 2. Restrictions
+
+The Licensed Work may not be used by organizations with more than $1,000,000 USD in annual revenue without obtaining a separate commercial license.
+
+**"Annual revenue"** means the total gross revenue of the organization (including all subsidiaries, parent companies, and affiliated entities) in the most recent 12-month period.
+
+**Permitted use** includes:
+- Any use by individuals
+- Any use by organizations with $1,000,000 USD or less in annual revenue
+- Personal projects and learning
+- Development, testing, and experimentation
+- Academic and research purposes
+- Evaluation for potential commercial licensing
+
+A separate commercial license is required for use by organizations exceeding the revenue threshold. Contact **root@kaertala.com** for commercial licensing inquiries.
+
+## 3. Commercial Licensing
+
+Licensor reserves the right to:
+- Negotiate commercial license terms on a case-by-case basis
+- Refuse to grant commercial licenses at Licensor's sole discretion
+- Set different terms and pricing for different commercial use cases
+
+## 4. Third-Party Tools
+
+This license does not restrict the licensing of derivative tools, development environments, debuggers, or other software that interacts with or supports the Licensed Work, provided such tools are not created by the Licensor.
+
+## 5. Additional Terms
+
+- This license does not grant trademark rights to "Patrei" or other Licensor trademarks.
+- Any violation of these terms immediately terminates your rights under this license.
+- This license is governed by the laws of Wyoming, USA.
+
+## 6. Disclaimer
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+---
+
+*This license is based on the Business Source License 1.1. For more information about BSL, see https://mariadb.com/bsl11.*
