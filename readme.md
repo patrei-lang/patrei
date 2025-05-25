@@ -1,5 +1,7 @@
 # Patrei
 
+This is far from traditional model of program execution. Patrei is a programming language that revolves around and embraces the concept of **micro-modular compute fabric**. It is essentially a compute substrate where the atomic unit is a pure function compiled to a WASM module.
+
 ## Installation of ANTLR
 
 In order to work on patrei you first need to install the ANTLR library on linux. There is a special path that is logically correct but doesn't have to be used, that is /usr/local/lib.
