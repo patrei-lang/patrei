@@ -1,10 +1,11 @@
 # Business Source License 1.1
 
 ## Parameters
-- **Licensor:** Forge Universal LLC
-- **Licensed Work:** Patrei Programming Language (compiler, runtime, standard library, and associated tooling)
-- **Change Date:** None (this license remains in effect indefinitely)
-- **Change License:** N/A
+
+- **Licensor**: Forge Universal LLC
+- **Licensed Work**: Patrei Programming Language (compiler, runtime, standard library, and associated tooling)
+- **Change Date**: Ten (10) years from the Commit Date of the specific version of the Licensed Work. The Commit Date is the date when a version is officially released or committed to the main branch of the official Patrei repository (e.g., <https://github.com/patrei-lang/patrei>), as documented in the release notes or version metadata.
+- **Change License**: MIT License (as defined at <https://opensource.org/licenses/MIT>)
 
 The Licensed Work is provided under the terms of this Business Source License, version 1.1 ("BSL"), and the following additional terms.
 
@@ -16,26 +17,33 @@ Programs, applications, and other works created using the Licensed Work are not 
 
 ## 2. Restrictions
 
-The Licensed Work may not be used by organizations with more than $1,000,000 USD in annual revenue without obtaining a separate commercial license.
+The Licensed Work may not be used by organizations with more than $1,000,000 USD in gross annual revenue in their most recent fiscal year without obtaining a separate commercial license. For purposes of this license:
 
-**"Annual revenue"** means the total gross revenue of the organization (including all subsidiaries, parent companies, and affiliated entities) in the most recent 12-month period.
+- **"Gross annual revenue"** means the total revenue of the organization using the Licensed Work, as reported in its most recent fiscal year, excluding revenue from subsidiaries or affiliates unless they directly use the Licensed Work.
+- Organizations must self-certify compliance with the revenue threshold. Licensor reserves the right to request verification (e.g., financial statements) in cases of suspected non-compliance.
+- Organizations that exceed the revenue threshold after initial use have a 90-day grace period to obtain a commercial license.
 
 **Permitted use** includes:
+
 - Any use by individuals
-- Any use by organizations with $1,000,000 USD or less in annual revenue
+- Any use by organizations with $1,000,000 USD or less in gross annual revenue
 - Personal projects and learning
 - Development, testing, and experimentation
 - Academic and research purposes
 - Evaluation for potential commercial licensing
 
-A separate commercial license is required for use by organizations exceeding the revenue threshold. Contact **root@kaertala.com** for commercial licensing inquiries.
+Contact <root@kaertala.com> for commercial licensing inquiries.
 
 ## 3. Commercial Licensing
 
-Licensor reserves the right to:
-- Negotiate commercial license terms on a case-by-case basis
-- Refuse to grant commercial licenses at Licensor's sole discretion
-- Set different terms and pricing for different commercial use cases
+Organizations with annual revenue exceeding $1,000,000 USD must obtain a commercial license for use of the Licensed Work. The Licensor will:
+
+- Publish a pricing guideline for commercial licenses at <https://patrei.com/licensing>, updated annually, reflecting factors such as organization size, user count, or deployment scale.
+- Offer a standardized commercial license agreement with clear terms, including duration, support options, and permitted use cases, available upon request.
+- Make commercial licenses available to qualifying organizations, subject to reasonable terms, with negotiations conducted in good faith.
+- Reserve the right to set custom terms for specialized use cases, with pricing and terms communicated transparently.
+
+Contact <root@kaertala.com> for commercial licensing inquiries.
 
 ## 4. Third-Party Tools
 
@@ -51,6 +59,17 @@ This license does not restrict the licensing of derivative tools, development en
 
 THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
 
+## 7. Community Contributions and Trademark Use
+
+Licensor encourages contributions to the Licensed Work, including code, documentation, and other materials, under the following terms:
+
+- Contributions must be submitted through the official Patrei project repository (e.g., <https://github.com/patrei-lang/patrei>) and are subject to a Contributor License Agreement (CLA) to be provided by Licensor.
+- Contributors who provide significant contributions, as determined by Licensor (e.g., code accepted into the main branch, substantial documentation), may apply for a limited, non-exclusive, non-transferable license to use the "Patrei" trademark in connection with tools, extensions, or projects that support the Licensed Work.
+- Trademark usage must comply with Licensor’s Trademark Usage Policy, available at <https://patrei.com/trademark>, which prohibits misleading claims or implying endorsement by Licensor.
+- All contributions remain subject to the terms of this license, including the revenue threshold and commercial licensing requirements.
+
+Contact <root@kaertala.com> for contribution and trademark inquiries.
+
 ---
 
-*This license is based on the Business Source License 1.1. For more information about BSL, see https://mariadb.com/bsl11.*
+*This license is based on the Business Source License 1.1. For more information about BSL, see <https://mariadb.com/bsl11>.*
